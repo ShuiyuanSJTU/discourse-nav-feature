@@ -1,0 +1,6 @@
+nav_tag:
+  type: string
+  default: "精品"
+  description:
+    zh_CN: "在导航栏顶部显示的标签"
+    en: "Tag to show in navbar"
